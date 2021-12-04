@@ -23,7 +23,7 @@ html, body {
 }
 
 header {
-    width: 100vw;
+    width: 100%;
     font-family: var(--fonte2);
     background-color: black;
     color: white;
@@ -95,10 +95,11 @@ section {
 }
 
 footer {
+    width: 100%;
     background-color: black;
     color: white;
     text-align: center;
-    font-size: 0.8vw;
+    font-size: 0.8em;
     padding-bottom: 5px;
     padding-top: 5px;
     margin: auto;
